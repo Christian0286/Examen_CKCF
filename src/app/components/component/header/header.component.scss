@@ -1,0 +1,35 @@
+#logo>img{
+    height: 5vh;
+    position: absolute;
+  }
+  #logo{
+    width: 15vw;
+    height: 8vh;
+    line-height: 8vh;
+  }
+  nav{
+    background-color: black;
+    margin-top: 0;
+    padding-top: 0;
+    line-height: 7vh;
+  }
+  a,li{
+    color: white;
+  }
+  a:hover{
+    color: white;
+  }
+  input{
+    width: 63vw;
+    height: 45px;
+    border-right: 0;
+    border-left: 10px;
+  }
+  .oferta{
+  height: 7vh;
+  line-height: 7vh;
+  }
+  p{
+    font-size: 11px;
+  }
+  
